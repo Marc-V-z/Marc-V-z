@@ -1,4 +1,5 @@
 ## 👁️‍🗨️Wellcome!🗝️
+
 ### My Skills
 <img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
@@ -36,12 +37,13 @@
   height="30"
 />
 
-## About Me:
+#### About Me:
 I'm a passionate **Brazilian** full-stack developer, dedicated to creating innovative applications, software, and games.  
 As a proud member of [**ChaosFantasy**](https://keyusf.wixsite.com/chaos-fantasy), I love crafting new features, enhancing functionality, and solving complex problems with creative solutions.
+
 🎓 Currently studying at **CESMAC University**, expanding my knowledge in technology and development.
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 - 💻 Languages: JavaScript, Python, GDscript, Java, Ruby, C#
 - 🔧 Tools: VS Code, Visal Studio 2022, PyCharm, Godot, All RPGMakers, Git
 - 🌐 Web: Node.js
