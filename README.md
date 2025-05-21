@@ -11,22 +11,17 @@
   height="30"
 />
 <img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-  width="40"
-  height="30"
-/>
-<img 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-  width="40"
-  height="30"
-/>
-<img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
   width="40"
   height="30"
 />
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
   width="40"
   height="30"
 />
@@ -58,6 +53,11 @@ As a proud member of [**ChaosFantasy**](https://keyusf.wixsite.com/chaos-fantasy
 />
 <img 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" 
+  width="40"
+  height="30"
+/> 
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" 
   width="40"
   height="30"
 />
