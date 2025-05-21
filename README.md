@@ -1,4 +1,46 @@
 ## 👁️‍🗨️Wellcome!🗝️
+### My Skills
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+  width="40"
+  height="30"
+/>
+<img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
+  width="40"
+  height="30"
+/>
+
 ## About Me:
 I'm a passionate **Brazilian** full-stack developer, dedicated to creating innovative applications, software, and games.  
 As a proud member of [**ChaosFantasy**](https://keyusf.wixsite.com/chaos-fantasy), I love crafting new features, enhancing functionality, and solving complex problems with creative solutions.
