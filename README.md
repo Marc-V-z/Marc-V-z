@@ -37,7 +37,7 @@
   height="30"
 />
 <!--
-![Marc-V-z's Stats](https://github-readme-stats.vercel.app/api?username=Marc-V-z&theme=nord&show_icons=true&hide_border=true&count_private=false)
+    ![Marc-V-z's Stats](https://github-readme-stats.vercel.app/api?username=Marc-V-z&theme=nord&show_icons=true&hide_border=true&count_private=false)
 -->
 #### About Me:
 I'm a passionate **Brazilian** full-stack developer, dedicated to creating innovative applications, software, and games.  
