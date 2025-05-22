@@ -81,7 +81,7 @@ As a proud member of [**ChaosFantasy**](https://keyusf.wixsite.com/chaos-fantasy
   height="30"
 />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-V-z&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marc-V-z&layout=compact&bg_color=45,0D1117,161B22,1F2428&text_color=ffffff)
 <!--
 **Marc-V-z/Marc-V-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
